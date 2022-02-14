@@ -18,7 +18,6 @@ That's it!
 - Modify `.github/workflows/run.yml` to configure the frequency you run the bot
 - Modify `.github/workflows/run.yml` to update the email address for the bot
 
-
 ## Results
 
 | Expiry    | Domain   |
