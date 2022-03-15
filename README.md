@@ -1,4 +1,4 @@
-# Cert Checker
+# cert-checker-template
 
 This tiny project takes a list of domains (`domains.txt`) and checks the certificate expiry. Once that's done, it does two things:
 
