@@ -22,7 +22,7 @@ That's it!
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2022-03-30 | github.com |
 | 2022-10-08 | news.ycombinator.com |
 | 2022-10-27 | fastmail.com |
 | 2023-03-14 | example.com |
+| 2023-03-15 | github.com |
