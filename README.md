@@ -22,5 +22,5 @@ That's it!
 
 | Expiry    | Domain   |
 |-----------|----------|
-| 2023-03-14 | example.com |
 | 2023-03-15 | github.com |
+| UnknownSSLFailure | example.com |
