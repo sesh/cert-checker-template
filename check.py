@@ -44,7 +44,7 @@ def get_ssl_expiry(domain):
         raise LookupFailed
     except socket.error as e:
         if e.errno == errno.ECONNREFUSED:
-            # connection to port 443 was confused
+            # connection to port 443 was refused
             raise SSLConnectionFailed
         raise UnknownSSLFailure
 

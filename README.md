@@ -15,8 +15,8 @@ That's it!
 
 ### Some Optional Steps
 
-- Modify `.github/workflows/run.yml` to configure the frequency you run the bot
-- Modify `.github/workflows/run.yml` to update the email address for the bot
+- Modify `.github/workflows/run.yml` to configure the frequency you run the workflow
+- Modify `.github/workflows/run.yml` to update the email address for the workflow
 
 ## Results
 
