@@ -10,6 +10,8 @@ This tiny project takes a list of domains (`domains.txt`) and checks the certifi
 
 Use this template to create a version of the project in your Github account, then edit `domains.txt` to set up the domains you want to track.
 
+If running with Github Actions, you need to allow Actions to write to the repository in your repository settings (Settings > Actions > General > Workflow permissions).
+
 That's it!
 
 
